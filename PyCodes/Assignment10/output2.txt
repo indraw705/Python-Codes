@@ -1,0 +1,6 @@
+currentFolder is prob2
+currentFolder is prob2/Laptop
+currentFolder is prob2/Laptop/inside
+currentFolder is prob2/abc
+currentFolder is prob2/abc/XYZ
+currentFolder is prob2/Hi

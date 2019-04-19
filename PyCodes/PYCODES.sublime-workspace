@@ -1,0 +1,392 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input"
+			],
+			[
+				"Ge",
+				"GetSegmentsChild"
+			],
+			[
+				"HP",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"H",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"E",
+				"error"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"mas",
+				"message"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"se",
+				"serializer"
+			],
+			[
+				"He",
+				"HelloSerializer"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"vi",
+				"Viewsets"
+			],
+			[
+				"Vi",
+				"Viewsets"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/inarvekar/workspace/profile-rest-api/src/profiles_project/profiles_api/AvarageMarks.py",
+			"settings":
+			{
+				"buffer_size": 400,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/home/inarvekar/pYcODES",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "class Stack:\n    def __init__(self):\n        self.items = []\n\n    def isEmpty(self):\n        return self.items == []\n\n\tdef push(self, item):\n        self.items.insert(0,item)\n\tdef pop(self):\n\t    return self.items.pop(0)\n\tdef peek(self):\n\t    return self.items[0]\n\t\n    def size(self):\n\t    return len(self.items)\n\t\ns = Stack()\ns.push('hello')\ns.push('true')\nprint(s.pop())\n",
+			"file": "stack.py",
+			"file_size": 394,
+			"file_write_time": 131944499623232740,
+			"settings":
+			{
+				"buffer_size": 374,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Build With: Python"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 342.0,
+		"history":
+		[
+			"ls",
+			"exit()",
+			"clr",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/inarvekar/Desktop/pYcODES"
+	],
+	"file_history":
+	[
+		"/home/inarvekar/.profile",
+		"/home/inarvekar/workspace/profile-rest-api/src/profiles_project/profiles_api/views.py",
+		"/home/inarvekar/Desktop/Segment.sh",
+		"/home/inarvekar/Desktop/JsonChildCount.py",
+		"/home/inarvekar/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/inarvekar/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/inarvekar/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/inarvekar/.config/sublime-text-3/Packages/User/BracketFlasher.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/inarvekar/workspace/profile-rest-api/src/profiles_project/profiles_api/AvarageMarks.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/inarvekar/pYcODES",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "stack.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 522.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PYCODES.sublime-project",
+	"replace":
+	{
+		"height": 59.4285714286
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

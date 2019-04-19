@@ -1,0 +1,26 @@
+{
+    "success": false,
+    "reason_code": "400-999",
+    "reason_desc": "Validation Failure",
+    "transaction_id": "828fee83-38ce-4198-9375-3798cac0fc74",
+    "errors": [
+        {
+            "object": "creativeDetailDTO",
+            "field": "videoDTO.externalId",
+            "message": "External ID must be at least 11 characters",
+            "reason_desc": "External ID must be at least 11 characters"
+        },
+        {
+            "object": "creativeDetailDTO",
+            "field": "videoDTO.externalId",
+            "message": "External ID must contain only letters and numbers",
+            "reason_desc": "External ID must contain only letters and numbers"
+        },
+        {
+            "object": "creativeDetailDTO",
+            "field": "videoDTO.externalId",
+            "message": "External ID must begin with BVP",
+            "reason_desc": "External ID must begin with BVP"
+        }
+    ]
+ <>insert code here that you want <> }
