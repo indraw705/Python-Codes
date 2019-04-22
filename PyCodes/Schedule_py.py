@@ -30,7 +30,7 @@ def main():
     schedule.every().hour.do(runPerHour)
     schedule.every().day.at("17:00").do(runPerHour)
 
-    schedule.every().sunday.at("00:20").do(runOnDay)
+    schedule.every().sunday.at("13:50").do(runOnDay)
 
     while True:
         schedule.run_pending()
