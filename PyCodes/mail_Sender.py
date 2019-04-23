@@ -19,7 +19,6 @@ def mailSender(gmail_usr, gmail_pwd):
     try:
 
         server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
-        print("HI")
         server.ehlo()
         server.login(gmail_usr, gmail_pwd)
         server.sendmail(sendFrom, to, emailText)
